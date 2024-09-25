@@ -1,4 +1,5 @@
-Directory Structure
+Web Site Creative CV
+
 -------------------
 css\              - Stylesheets CSS files for the template.
 images\           - Images used in template.
